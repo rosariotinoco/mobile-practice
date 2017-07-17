@@ -1,0 +1,17 @@
+{
+  "name": "mobile-design",
+  "version": "1.0.0",
+  "description": "Create a website that will list all US retails stores that have closed in 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css": "^2.2.1",
+    "jquery": "^3.2.1",
+    "normalize": "^0.3.1"
+  }
+}
